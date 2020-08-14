@@ -2,3 +2,11 @@
 data
 forms
 forms a3 input
+__pycache__/
+autofill/autofill.py
+autofill/autofill_init.py
+mailing/Mail.html
+mailing/Mail.md
+mailing/mail_init.py
+selenium_webdriver/chromedriver.exe
+selenium_webdriver/sel_webdriver.py
